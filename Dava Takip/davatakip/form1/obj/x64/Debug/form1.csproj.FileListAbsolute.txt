@@ -1,0 +1,14 @@
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\bin\x64\Debug\form1.exe.config
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\bin\x64\Debug\form1.exe
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\bin\x64\Debug\form1.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\obj\x64\Debug\form1.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\obj\x64\Debug\form1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\obj\x64\Debug\form1.Form1.resources
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\obj\x64\Debug\form1.Form2.resources
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\obj\x64\Debug\form1.Form3.resources
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\obj\x64\Debug\form1.Form4.resources
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\obj\x64\Debug\form1.Properties.Resources.resources
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\obj\x64\Debug\form1.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\obj\x64\Debug\form1.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\obj\x64\Debug\form1.exe
+C:\Users\CASPER\OneDrive\Masaüstü\Dava Takip\davatakip\form1\obj\x64\Debug\form1.pdb
